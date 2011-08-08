@@ -27,6 +27,7 @@ LICENSE
    0. You just DO WHAT THE FUCK YOU WANT TO.
 =end
 
+require "rubygems"
 require "addressable/uri"
 require "socket"
 require "openssl"
